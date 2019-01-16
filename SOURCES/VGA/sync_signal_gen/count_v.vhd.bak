@@ -1,0 +1,26 @@
+library ieee;
+use ieee.std_logic_1164.all;
+
+entity count_v is
+	port(
+		h_sync: in std_logic;
+		compt_v: out integer range 0 to 523
+	);
+end compteur_v;
+
+architecture compteur_v_arch of compteur_v is
+signal compt: integer range 0 to 523 := 0;
+begin
+	process(h_sync)
+	begin
+		if rising_edge(h_sync) then
+			if compt = 523 then
+				compt <= 0;
+			else
+				compt <= compt + 1;
+			end if;
+		end if;
+		
+		compt_v <= compt;
+	end process;
+end compteur_v_arch;

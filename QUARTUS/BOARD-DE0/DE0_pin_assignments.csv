@@ -1,0 +1,107 @@
+From,To,Assignment Name,Value,Enabled
+,SW[0],Location,PIN_J6,Yes
+,SW[1],Location,PIN_H5,Yes
+,SW[2],Location,PIN_H6,Yes
+,SW[3],Location,PIN_G4,Yes
+,SW[4],Location,PIN_G5,Yes
+,SW[5],Location,PIN_J7,Yes
+,SW[6],Location,PIN_H7,Yes
+,SW[7],Location,PIN_E3,Yes
+,SW[8],Location,PIN_E4,Yes
+,SW[9],Location,PIN_D2,Yes
+,SW[0],I/O Standard,LVTTL,Yes
+,SW[1],I/O Standard,LVTTL,Yes
+,SW[2],I/O Standard,LVTTL,Yes
+,SW[3],I/O Standard,LVTTL,Yes
+,SW[4],I/O Standard,LVTTL,Yes
+,SW[5],I/O Standard,LVTTL,Yes
+,SW[6],I/O Standard,LVTTL,Yes
+,SW[7],I/O Standard,LVTTL,Yes
+,SW[8],I/O Standard,LVTTL,Yes
+,SW[9],I/O Standard,LVTTL,Yes
+,HEX0_D[0],Location,PIN_E11,Yes
+,HEX0_D[1],Location,PIN_F11,Yes
+,HEX0_D[2],Location,PIN_H12,Yes
+,HEX0_D[3],Location,PIN_H13,Yes
+,HEX0_D[4],Location,PIN_G12,Yes
+,HEX0_D[5],Location,PIN_F12,Yes
+,HEX0_D[6],Location,PIN_F13,Yes
+,HEX0_D[7],Location,PIN_D13,Yes
+,HEX1_D[0],Location,PIN_A13,Yes
+,HEX1_D[1],Location,PIN_B13,Yes
+,HEX1_D[2],Location,PIN_C13,Yes
+,HEX1_D[3],Location,PIN_A14,Yes
+,HEX1_D[4],Location,PIN_B14,Yes
+,HEX1_D[5],Location,PIN_E14,Yes
+,HEX1_D[6],Location,PIN_A15,Yes
+,HEX1_D[7],Location,PIN_B15,Yes
+,HEX2_D[0],Location,PIN_D15,Yes
+,HEX2_D[1],Location,PIN_A16,Yes
+,HEX2_D[2],Location,PIN_B16,Yes
+,HEX2_D[3],Location,PIN_E15,Yes
+,HEX2_D[4],Location,PIN_A17,Yes
+,HEX2_D[5],Location,PIN_B17,Yes
+,HEX2_D[6],Location,PIN_F14,Yes
+,HEX2_D[7],Location,PIN_A18,Yes
+,HEX3_D[0],Location,PIN_B18,Yes
+,HEX3_D[1],Location,PIN_F15,Yes
+,HEX3_D[2],Location,PIN_A19,Yes
+,HEX3_D[3],Location,PIN_B19,Yes
+,HEX3_D[4],Location,PIN_C19,Yes
+,HEX3_D[5],Location,PIN_D19,Yes
+,HEX3_D[6],Location,PIN_G15,Yes
+,HEX3_D[7],Location,PIN_G16,Yes
+,BUTTON[0],Location,PIN_H2,Yes
+,BUTTON[1],Location,PIN_G3,Yes
+,BUTTON[2],Location,PIN_F1,Yes
+,LEDG[0],Location,PIN_J1,Yes
+,LEDG[1],Location,PIN_J2,Yes
+,LEDG[2],Location,PIN_J3,Yes
+,LEDG[3],Location,PIN_H1,Yes
+,LEDG[4],Location,PIN_F2,Yes
+,LEDG[5],Location,PIN_E1,Yes
+,LEDG[6],Location,PIN_C1,Yes
+,LEDG[7],Location,PIN_C2,Yes
+,BUTTON[0],I/O Standard,LVTTL,Yes
+,BUTTON[1],I/O Standard,LVTTL,Yes
+,BUTTON[2],I/O Standard,LVTTL,Yes
+,LEDG[0],I/O Standard,LVTTL,Yes
+,LEDG[1],I/O Standard,LVTTL,Yes
+,LEDG[2],I/O Standard,LVTTL,Yes
+,LEDG[3],I/O Standard,LVTTL,Yes
+,LEDG[4],I/O Standard,LVTTL,Yes
+,LEDG[5],I/O Standard,LVTTL,Yes
+,LEDG[6],I/O Standard,LVTTL,Yes
+,LEDG[7],I/O Standard,LVTTL,Yes
+,CLOCK_50,Location,PIN_G21,Yes
+,CLOCK_50_2,Location,PIN_B12,Yes
+,CLOCK_50,I/O Standard,LVTTL,Yes
+,CLOCK_50_2,I/O Standard,LVTTL,Yes
+,VGA_R[0],Location,PIN_H19,Yes
+,VGA_R[1],Location,PIN_H17,Yes
+,VGA_R[2],Location,PIN_H20,Yes
+,VGA_R[3],Location,PIN_H21,Yes
+,VGA_G[0],Location,PIN_H22,Yes
+,VGA_G[1],Location,PIN_J17,Yes
+,VGA_G[2],Location,PIN_K17,Yes
+,VGA_G[3],Location,PIN_J21,Yes
+,VGA_B[0],Location,PIN_K22,Yes
+,VGA_B[1],Location,PIN_K21,Yes
+,VGA_B[2],Location,PIN_J22,Yes
+,VGA_B[3],Location,PIN_K18,Yes
+,VGA_HS,Location,PIN_L21,Yes
+,VGA_VS,Location,PIN_L22,Yes
+,VGA_R[0],I/O Standard,LVTTL,Yes
+,VGA_R[1],I/O Standard,LVTTL,Yes
+,VGA_R[2],I/O Standard,LVTTL,Yes
+,VGA_R[3],I/O Standard,LVTTL,Yes
+,VGA_G[0],I/O Standard,LVTTL,Yes
+,VGA_G[1],I/O Standard,LVTTL,Yes
+,VGA_G[2],I/O Standard,LVTTL,Yes
+,VGA_G[3],I/O Standard,LVTTL,Yes
+,VGA_B[0],I/O Standard,LVTTL,Yes
+,VGA_B[1],I/O Standard,LVTTL,Yes
+,VGA_B[2],I/O Standard,LVTTL,Yes
+,VGA_B[3],I/O Standard,LVTTL,Yes
+,VGA_HS,I/O Standard,LVTTL,Yes
+,VGA_VS,I/O Standard,LVTTL,Yes

@@ -1,0 +1,17 @@
+library ieee;
+use ieee.std_logic_1164.all;
+
+entity count_h is 
+	port(
+		CLOCK_50: in std_logic;
+		ROW: out integer range 0 to 523;
+		COL: out integer range 0 to 799;
+		VGA_HS, VGA_VS: out std_logic;
+		VGA_H_ON, VGA_V_ON: out std_logic
+	);
+end sync_signal_gen;
+
+architecture arch_sync_signal_gen of sync_signal_gen is
+begin
+
+end arch_sync_signal_gen;

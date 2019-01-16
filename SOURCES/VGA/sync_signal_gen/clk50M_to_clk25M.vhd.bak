@@ -1,0 +1,21 @@
+library ieee;
+use ieee.std_logic_1164.all;
+
+entity div2 is
+	port(
+		clock_50M: in std_logic;
+		clock_25M: out std_logic
+	);
+end div2;
+
+architecture arch_div2 of div2 is
+	signal compt: std_logic;
+	begin
+		process(clock_50M)
+		begin	
+			if rising_edge(clock_50M) then
+				compt<=not(compt);
+				end if;
+			end process;
+			clock_25M<=compt;
+end arch_div2;
